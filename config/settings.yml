@@ -1,0 +1,23 @@
+plugins:
+  telegram_verification_enabled:
+    client: true
+    default: true
+  telegram_verification_access_token:
+    client: true
+    default: ''
+  telegram_verification_chat_ids:
+    client: true
+    default: ''
+    type: list
+  telegram_verification_help_url:
+    client: true
+    default: ''
+  telegram_verification_rules_url:
+    client: true
+    default: ''
+  telegram_verification_info_message:
+    client: true
+    default: 'You need to verify youself at our forum, before you can join {title}. For more instructions see <a href="{help}">the help topic</a>.'
+  telegram_verification_welcome_message:
+    client: true
+    default: 'Welcome to {title}. Please read <a href="{rules}">the rules</a> on our forum.'

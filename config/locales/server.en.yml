@@ -1,0 +1,9 @@
+fi:
+  site_settings:
+    telegram_verification_enabled: "Enable Telegram verification."
+    telegram_verification_access_token: "Acess token of the Telegram bot."
+    telegram_verification_chat_ids: "List of ids for the groups and channels to be moderated."
+    telegram_verification_help_url: "The url of help page ex. https://domain.com/help"
+    telegram_verification_rules_url: "The url of rules page ex. https://domain.com/rules"
+    telegram_verification_info_message: "Message sent by the bot when a user tries to join a group without verification."
+    telegram_verification_welcome_message: "Message sent by the bot when a user is accepted to the group."

@@ -1,0 +1,18 @@
+.verified-users {
+  margin: 0.5em 0;
+  
+  .user {
+    vertical-align: middle;
+    
+    .account {
+      display: inline-block;
+      margin-right: 0.5em;
+    }
+    
+    .revoke {
+      display: inline-block;
+      padding: 5px;
+    }
+  }
+}
+

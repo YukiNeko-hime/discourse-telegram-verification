@@ -1,0 +1,9 @@
+fi:
+  site_settings:
+    telegram_verification_enabled: "Ota käyttöön Telegram-tilien varmennus."
+    telegram_verification_access_token: "Telegram-botin access token."
+    telegram_verification_chat_ids: "Lista moderoitavista ryhmistä ja kanavista (id)."
+    telegram_verification_help_url: "Ohjesivun url esim. https://domain.com/help"
+    telegram_verification_rules_url: "Sääntöjen url esim. https://domain.com/rules"
+    telegram_verification_info_message: "Viesti, jonka botti lähettää käyttäjän yrittäessä liittyä ryhmään ilman tunnistautumista."
+    telegram_verification_welcome_message: "Tervetuloviesti, jonka botti lähettää, kun käyttäjä hyväksytään ryhmään."

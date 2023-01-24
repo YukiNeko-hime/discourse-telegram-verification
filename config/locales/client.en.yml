@@ -1,0 +1,9 @@
+fi:
+  js:
+    user:
+      telegram_verification:
+        title: "Connected Telegram accounts"
+        no_accounts: "No connected accounts"
+        button_label: "Connect new account"
+        info: "By connecting a Telegram account with your forum profile you can join the forum groups."
+

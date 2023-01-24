@@ -1,0 +1,9 @@
+fi:
+  js:
+    user:
+      telegram_verification:
+        title: "Liitetyt Telegram-tilit"
+        no_accounts: "Ei liitettyjä tilejä"
+        button_label: "Liitä uusi tili"
+        info: "Liittämällä Telegram-tilisi foorumiprofiiliin pääset liittymään foorumin Telegram-ryhmiin."
+
